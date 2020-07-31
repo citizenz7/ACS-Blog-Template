@@ -1,0 +1,29 @@
+body.darkMode {
+  background-color: #303030;
+  color: white;
+}
+body.darkMode section {
+  background-color: inherit;
+  color: inherit;
+}
+body.darkMode div {
+  background-color: inherit;
+  color: inherit;
+}
+body.darkMode p {
+  background-color: inherit;
+  color: inherit;
+}
+
+.btn-darkMode {
+  position: fixed;
+  top: 32px;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  background-color: black;
+}
+
+body.darkMode .btn-darkMode {
+  background-color: white;
+}
