@@ -1,0 +1,17 @@
+Idées animations/plugins : 
+
+Maquette page principale + articles ( Vendredi matin Warren ) 
+Sidebar déroulante ( Yoann vendredi matin ) 
+Dark Mode - ( Vendredi matin Robin ) - TERMINE 
+Début d'intégration index + css ( Olivier Vendredi matin ) 
+Barre de recherche 
+Page Portfolio
+Plugin pop up définition mots
+Plugin référencement articles
+Navbar prend le dessus lors de la séléction des articles
+
+
+
+/* Projet achevé */ 
+
+Dark Mode - Robin - TERMINE 
